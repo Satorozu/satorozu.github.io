@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "Mis logros"
       href: about.html
-    - text: "Contacto"
+    - text: "Contactame"
       href: contacto.html
 output:
   html_document:
