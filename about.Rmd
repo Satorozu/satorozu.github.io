@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Mis logros o trabajos"
 ---
 
-More about this website.
+**Acá encontraras logros o trabajos académicos que he desarrollado:**

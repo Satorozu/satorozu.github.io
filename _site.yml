@@ -1,9 +1,15 @@
-name: "my-website"
+name: "Santiago Toro Zuluaga"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Santiago Toro Zuluaga"
   left:
-    - text: "Home"
+    - text: "Acerca de mí"
       href: index.html
-    - text: "About"
+    - text: "Mis logros"
       href: about.html
+    - text: "Contacto"
+      href: contacto.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate

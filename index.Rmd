@@ -1,5 +1,14 @@
 ---
-title: "My Website"
+title: "¡Bienvenido! Muchas gracias por visitar mi web"
 ---
 
-Hello, Website!
+**Hola, soy Santiago Toro Z. Orgullosamente Colombiano**
+
+Actualmente estudiante de Estadística en la Universidad Nacional de Colombia. 
+
+En el pasado cursé 6 semestres en Contaduría Publica en la Universidad de Antioquia.
+
+Soy aspirante a ser miembro del Semillero de R.
+
+Soy un apasionado por mi carrera, los números y el deporte.
+
