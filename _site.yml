@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - text: "Densidad"  
       icon: fa-area-chart
-      href: densidad.html
+      href: Densidad.html
     - text: "Contacto"
       icon: fa-at
       href: contacto.html
