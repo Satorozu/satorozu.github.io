@@ -3,12 +3,19 @@ output_dir: "."
 navbar:
   title: "Santiago Toro Zuluaga"
   left:
-    - text: "Acerca de mí"
+    - text: "Acerca de mi"
+      icon: fa-child
       href: index.html
     - text: "Mis logros"
+      icon: fa-suitcase
       href: about.html
-    - text: "Contactame"
+    - text: "Densidad"  
+      icon: fa-area-chart
+      href: densidad.html
+    - text: "Contacto"
+      icon: fa-at
       href: contacto.html
+   
 output:
   html_document:
     theme: flatly
