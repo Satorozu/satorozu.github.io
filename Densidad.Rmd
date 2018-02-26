@@ -2,4 +2,13 @@
 title: "Densidad"
 ---
 
-procedimiento de como crear una densidad
+Se construye un grafico de densidades para la variable X, que vamos a crear aleatoriamente para este ejemplo 
+
+
+```{r}
+x<- sample(1:8,50,replace = TRUE)
+```
+```{r}
+plot(density(x), main="Distribución de densidad de la variable aleatoria X", xlab="valores de X", ylab="Densidad", lwd=4, col="red")
+
+```
