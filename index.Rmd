@@ -1,8 +1,12 @@
 ---
-title: "¡Bienvenido! Muchas gracias por visitar mi web"
+title: ""
 ---
+<center>
+<h1>¡Bienvenido! Muchas gracias por visitar mi web</h1>
+</center>
 
-**Hola, soy Santiago Toro Z. Orgullosamente Colombiano**
+_**Hola, soy Santiago Toro Z. Orgullosamente Colombiano**_
+
 
 Actualmente estudiante de Estadística en la Universidad Nacional de Colombia. 
 
@@ -12,3 +16,4 @@ Soy aspirante a ser miembro del Semillero de R.
 
 Soy un apasionado por mi carrera, los números y el deporte.
 
+![](fotoun.jpg)
