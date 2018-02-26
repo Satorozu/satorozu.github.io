@@ -2,4 +2,15 @@
 title: "Mis logros o trabajos"
 ---
 
-**Acá encontraras logros o trabajos académicos que he desarrollado:**
+</center>**Acá encontraras logros o trabajos académicos que he desarrollado:**</center>
+
+###Estadística:
+
+1. Poster Científico:
+* Se empleó metodología GAMLSS para reanalizar el problema propuesto por los autores Triana et al (2009); planteando una opción alternativa que explica el grado de secado (GS) del acetato de calcio dihidratado mediante un secador de tipo  transportador. Encontrando con esta metodología una mejor distribución y adecuación para la variable respuesta, llegando así, a un modelo con distribución Weibull con parametrización 3 (WEI3) que cumple con las cualidades de interpolación y modelamiento de los datos, los resultados fueron obtenidos empleando el programa estadístico R. , los cuales arrojaron una correlación de 0.95 y un AIC 42.93.
+Este trabajo se realizó en conjunto con *Brahian Cano*, *Edwin Caicedo* y supervisado por el profesor *Freddy Hernández*. 
+
+-Poster: <a href="poster2017.pdf#" class="download" title="Descarga el poster"> Descarga el poster </a>
+
+
+###Contaduría Pública
