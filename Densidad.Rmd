@@ -9,6 +9,6 @@ Se construye un grafico de densidades para la variable X, que vamos a crear alea
 x<- sample(1:8,50,replace = TRUE)
 ```
 ```{r}
-plot(density(x), main="Distribución de densidad de la variable aleatoria X", xlab="valores de X", ylab="Densidad", lwd=4, col="red")
+plot(density(x), main="Densidad de la variable aleatoria X", xlab="valores de X", ylab="Densidad", lwd=4, col="red")
 
 ```
