@@ -15,8 +15,21 @@ navbar:
     - text: "Contacto"
       icon: fa-at
       href: contacto.html
+      
+  right:
+    - icon: fa-github
+      href: https://github.com/satorozu
+    - icon: fa-facebook
+      href: https://www.facebook.com/SanTo31
+    - icon: fa-instagram
+      href: http://instagram.com/santiagotoroz
+    - icon: fa-twitter
+      href: https://twitter.com/santiagotoroz 
    
 output:
   html_document:
     theme: flatly
     highlight: textmate
+    
+    
+ 
