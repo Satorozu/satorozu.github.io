@@ -10,10 +10,12 @@ _**Hola, soy Santiago Toro Z. Orgullosamente Colombiano**_
 
 Actualmente estudiante de Estadística en la Universidad Nacional de Colombia. 
 
-En el pasado cursé 6 semestres en Contaduría Publica en la Universidad de Antioquia.
+En el pasado cursé seis semestres en Contaduría Publica en la Universidad de Antioquia.
 
 Soy aspirante a ser miembro del Semillero de R.
 
 Soy un apasionado por mi carrera, los números y el deporte.
+
+Me gusta servir a los demás y brindar ayuda a quién necesita de mí. 
 
 ![](fotoun.jpg)
